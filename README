@@ -14,3 +14,12 @@ Levelten APPS - useful for Aegir implemention, where "apps" doesn't work
      (enterprise_base)
 - enterprise_forum : forum, based on advanced forum
      (enterprise_base, advanced_forum)
+- enterprise_links : forum, based on advanced forum
+     (enterprise_base)
+- enterprise_location : forum, based on advanced forum
+     (enterprise_base, addressfield, geocoder, geofield)
+- enterprise_images : image galleries
+     (enterprise_base, colorbox)
+- enterprise_videos : video library from uploaded/embedded video
+     (enterprise_base)
+
