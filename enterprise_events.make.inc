@@ -9,3 +9,6 @@ projects[enterprise_events][subdir] = contrib
 projects[date][version] = 2.5
 projects[date][subdir] = contrib
 
+projects[enterprise_base][version] = 1.0-beta11
+projects[enterprise_base][subdir] = contrib
+

@@ -1,5 +1,16 @@
 Levelten APPS - useful for Aegir implemention, where "apps" doesn't work
 - socialmedia : Social Media interface (twitter, facebook, etc)
+     (widgets)
 - seotools : SEO tools
+     (alchemy, chart, contentanalysis, contentoptimizer, globalredirect, google_analytics, kwresearch
+      page_title, pathauto, tutorials, wordstream, xmlsitemap)
 - enterprise_blog : blog similar to Wordpress
+     (enterprise_base, realname, save_draft, scheduler, views_bulk_operations)
 - enterprise_rotator : rotating banner ads
+     (enterprise_base, views_slideshow, jquerycycle)
+- enterprise_events : event feature (but no calendar)
+     (enterprise_base,date)
+- enterprise_faq : faq & Q&A
+     (enterprise_base)
+- enterprise_forum : forum, based on advanced forum
+     (enterprise_base, advanced_forum)

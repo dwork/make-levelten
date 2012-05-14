@@ -8,6 +8,9 @@ projects[features][subdir] = contrib
 projects[enterprise_blog][version] = 1.0-rc1
 projects[enterprise_blog][subdir] = contrib
 
+projects[enterprise_base][version] = 1.0-beta11
+projects[enterprise_base][subdir] = contrib
+
 ; Placement overrides
 projects[realname][subdir] = contrib
 projects[save_draft][subdir] = contrib
