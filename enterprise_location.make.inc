@@ -18,3 +18,6 @@ projects[geocoder][subdir] = contrib
 projects[geofield][version] = 1.0
 projects[geofield][subdir] = contrib
 
+projects[geophp][version] = 1.4
+projects[geophp][subdir] = contrib
+
