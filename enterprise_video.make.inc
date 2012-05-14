@@ -6,9 +6,6 @@ core = 7.x
 projects[enterprise_video][version] = 1.0-alpha5
 projects[enterprise_video][subdir] = contrib
 
-projects[enterprise_base][version] = 1.0-beta11
-projects[enterprise_base][subdir] = contrib
-
 projects[media][version] = 1.1
 projects[media][subdir] = contrib
 
